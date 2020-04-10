@@ -1,7 +1,7 @@
 ![Image](Image%20from%20iOS.jpg)
 <!-- .element height="50%" width="50%" -->
 
-## Background
+## **Background**
 
 * Currently a DPhil candidate on the [Interdisciplinary Bioscience DTP (BBSRC)](https://www.ox.ac.uk/admissions/graduate/courses/interdisciplinary-bioscience?wssl=1), Magdalen College, University of Oxford (2018-22)
 
@@ -18,8 +18,6 @@
 
 * Antibiotic resistance
 
-
-[Link](url) and ![Image](src)
 
 ## Research
 

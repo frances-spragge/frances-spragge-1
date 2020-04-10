@@ -1,5 +1,5 @@
 ![Image](Image%20from%20iOS.jpg)
-
+<!-- .element height="50%" width="50%" -->
 
 ## Background
 
